@@ -2,8 +2,6 @@
 ### Welcome to my GitHub pfp
 
 - ☕ I'm definitely not a Java developer
-- 📝 I am experienced in Python and currently learning Rust
-- 💼 At the moment, seeking software engineering job opportunities
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=inc0g-repoz)](https://github.com/anuraghazra/github-readme-stats)
 
