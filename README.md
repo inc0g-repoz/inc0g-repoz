@@ -6,4 +6,4 @@ Welcome to my GitHub pfp. I'm definitely not a Java developer. ☕ <-- tea
 
 ## Contact me
 [![Discord Badge](https://img.shields.io/badge/-Vadik%235134-blue?style=social&logo=Discord&link=https://discord.com/users/408196690647056384)](https://discord.com/users/408196690647056384)
-[![Discord Badge](https://img.shields.io/badge/-Nitka%236240-blue?style=social&logo=Discord&link=https://discord.com/users/391549863185219585)](https://discord.com/users/391549863185219585)
+[![Discord Badge](https://img.shields.io/badge/-%u041D%u0438%u0442%u043A%u0430%u041D%u0438%u043A%u0438%u0442%u0430%236240-blue?style=social&logo=Discord&link=https://discord.com/users/391549863185219585)](https://discord.com/users/391549863185219585)
