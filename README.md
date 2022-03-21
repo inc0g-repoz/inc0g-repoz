@@ -1,7 +1,6 @@
 ### Hey, you, with the face!
-### Welcome to my GitHub pfp
-
-- ☕ I'm definitely not a Java developer
+Welcome to my GitHub pfp...
+I'm definitely not a Java developer. ☕
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=inc0g-repoz)](https://github.com/anuraghazra/github-readme-stats)
 
